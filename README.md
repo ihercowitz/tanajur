@@ -13,8 +13,4 @@ A console Front-end to download Torrents from KickassTorrents using Aria2
 - So many thing to do :)
 
 
-
 Copyright © 2014 - Igor Hercowitz
-=======
-tanajur
-=======
