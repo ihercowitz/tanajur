@@ -1,5 +1,5 @@
 # TANAJUR
-To Aria2 New Application JUR 
+Tor Aria2 New Application JUR 
 
 A console Front-end to download Torrents from KickassTorrents using Aria2 
 
@@ -15,3 +15,6 @@ A console Front-end to download Torrents from KickassTorrents using Aria2
 
 
 Copyright © 2014 - Igor Hercowitz
+=======
+tanajur
+=======
